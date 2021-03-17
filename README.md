@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Steponel
 - 👀 I’m interested in Blender and Unreal
-- 🌱 I’m currently learning Python Unreal and so on.
+- 🌱 I’m currently learning Python, Unreal and so on.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1152841878@qq.com
 
